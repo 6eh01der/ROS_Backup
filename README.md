@@ -1,5 +1,5 @@
 # ROS_Backup
-MikroTik RouterOS backup script
+MikroTik RouterOS ftp backup script
 
 Based on some code parts from https://github.com/beeyev/Mikrotik-RouterOS-automatic-backup-and-update/blob/master/BackupAndUpdate.rsc
 
