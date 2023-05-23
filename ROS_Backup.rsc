@@ -36,7 +36,7 @@
   :log info message="System Backup Finished"
 }
 
-if ($saveRawExport) do={
+:if ($saveRawExport) do={
   /export file=($sfname.".rsc")
   :log info message="Raw configuration script export Finished"
 }
